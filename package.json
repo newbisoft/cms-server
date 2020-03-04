@@ -12,7 +12,8 @@
     "sequelize-cli": "^5.5.1"
   },
   "scripts": {
-    "dev": "nodemon src/index.js"
+    "dev": "nodemon src/index.js",
+    "test": "jest"
   },
   "devDependencies": {
     "dotenv": "^8.2.0",
